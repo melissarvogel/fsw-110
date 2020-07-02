@@ -1,0 +1,19 @@
+body {
+    padding: 5px;
+    margin: 5px;
+}
+
+#addCalc {
+    background-color: green;
+    display: block;
+}
+
+#subCalc {
+    background-color: aqua;
+    display: block;
+}
+
+#multCalc {
+    background-color: greenyellow;
+    display: block;
+}
